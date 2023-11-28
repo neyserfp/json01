@@ -1,0 +1,128 @@
+[
+    {
+        "marca": "BMW",
+        "modelo": "320 CD COUPE",
+        "kilometros": 196.210,
+        "anio": "Ene 2008",
+        "imagen": "imagen01.jpg",
+        "precio": 45000,
+        "caracteristicas": {
+            "motor": "Motor de 4 cilindros en línea",
+            "transmision": "Transmisión automática de 8 velocidades",
+            "color": "Rojo",
+            "traccion": "Tracción delantera",
+            "combustible": "Gasolina",
+            "cilindrada": "2.0L",
+            "potencia": "180 hp",
+            "torque": "170 lb-pie"
+        }
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "Model S",
+        "kilometros": 196.210,
+        "anio": "Feb 2023",
+        "imagen": "imagen02.jpg",
+        "precio": 25000,
+        "caracteristicas": {
+          "motor": "Motor eléctrico",
+          "transmision": "Transmisión automática de una velocidad",
+          "color": "Blanco",
+          "traccion": "Tracción en todas las ruedas",
+          "batería": "Batería de iones de litio",
+          "autonomia": "400 millas",
+          "potencia": "670 hp",
+          "torque": "820 lb-pie"
+        }
+    },
+    {
+        "marca": "BMW",
+        "modelo": "X5",
+        "kilometros": 196.210,
+        "anio": "Mar 2023",
+        "imagen": "imagen03.jpg",
+        "precio": 35000,
+        "caracteristicas": {
+          "motor": "Motor de 6 cilindros en línea",
+          "transmision": "Transmisión automática de 9 velocidades",
+          "color": "Gris",
+          "traccion": "Tracción en todas las ruedas",
+          "combustible": "Gasolina",
+          "cilindrada": "3.0L",
+          "potencia": "335 hp",
+          "torque": "330 lb-pie"
+        }
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "kilometros": 196.210,
+        "anio": "Ago 2023",
+        "imagen": "imagen01.jpg",
+        "precio": 45000,
+        "caracteristicas": {
+            "motor": "Motor de 4 cilindros en línea",
+            "transmision": "Transmisión automática de 8 velocidades",
+            "color": "Rojo",
+            "traccion": "Tracción delantera",
+            "combustible": "Gasolina",
+            "cilindrada": "2.0L",
+            "potencia": "180 hp",
+            "torque": "170 lb-pie"
+        }
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "Model S",
+        "kilometros": 196.210,
+        "anio": "Nov 2023",
+        "imagen": "imagen02.jpg",
+        "precio": 45000,
+        "caracteristicas": {
+          "motor": "Motor eléctrico",
+          "transmision": "Transmisión automática de una velocidad",
+          "color": "Blanco",
+          "traccion": "Tracción en todas las ruedas",
+          "batería": "Batería de iones de litio",
+          "autonomia": "400 millas",
+          "potencia": "670 hp",
+          "torque": "820 lb-pie"
+        }
+    },
+    {
+        "marca": "BMW",
+        "modelo": "X5",
+        "kilometros": 196.210,
+        "anio": "Dic 2023",
+        "imagen": "imagen03.jpg",
+        "precio": 45000,
+        "caracteristicas": {
+          "motor": "Motor de 6 cilindros en línea",
+          "transmision": "Transmisión automática de 9 velocidades",
+          "color": "Gris",
+          "traccion": "Tracción en todas las ruedas",
+          "combustible": "Gasolina",
+          "cilindrada": "3.0L",
+          "potencia": "335 hp",
+          "torque": "330 lb-pie"
+        }
+    },
+    {
+        "marca": "BMW",
+        "modelo": "X5",
+        "kilometros": 196.210,
+        "anio": "Dic 2023",
+        "imagen": "imagen03.jpg",
+        "precio": 45000,
+        "caracteristicas": {
+          "motor": "Motor de 6 cilindros en línea",
+          "transmision": "Transmisión automática de 9 velocidades",
+          "color": "Gris",
+          "traccion": "Tracción en todas las ruedas",
+          "combustible": "Gasolina",
+          "cilindrada": "3.0L",
+          "potencia": "335 hp",
+          "torque": "330 lb-pie"
+        }
+    }
+]
